@@ -1,7 +1,6 @@
 # main text of home
-name: Gaffa Overflow
-bio: Einen Zusammenschluss aus <a href="https://chaostreff-osnabrueck.de" target="_blank" rel="noopener">Chaostreff Osnabrück</a>, <a href="https://haxko.de/" target="_blank" rel="noopener">haxko</a> und <a href="https://Westwoodlabs.de/" target="_blank" rel="noopener">Westwoodlabs</a>
-
+name: 
+bio: Einen Gemeinschaftsprojekt von <br> <div style="padding-top:30px"> <img style="height:100px; padding:20px;" src='assets/images/osna.png'></img> <img style="height:100px; padding:20px;" src='assets/images/wwl.png'></img> <img style="height:100px; padding:20px;" src='assets/images/haxko.jpg'></img> </div>
 # twitter summary info
 #description: A blog about technology and stuff related
 
@@ -136,7 +135,12 @@ exclude:
     "README.md",
     "Gemfile",
     "Gemfile.lock",
+    "gemset.nix",
+    "Rakefile",
+    "shell.nix",.
     "FAQ.md",
     "node_modules",
     "vendor",
+    "commands.sh",
+    ".git"
   ]

@@ -40,6 +40,14 @@ If you want to test locally on your machine, do the following steps also:
 5. Open it in your browser: `http://localhost:4000`
 6. Do you want to use the [jekyll-admin](https://jekyll.github.io/jekyll-admin/) plugin to edit your posts? Go to the admin panel: `http://localhost:4000/admin`. The admin panel will not work on GitHub Pages, [only locally](https://github.com/jekyll/jekyll-admin/issues/341#issuecomment-292739469).
 
+
+## Setup on NixOS
+1. Clone the forked repo on your machine
+2. Enter the directory and 'nix-shell'
+3. 'source commands.sh'
+4. To run dev 'gaffa_run'
+5. Open it in your browser: `http://localhost:4000`
+
 ## Settings
 
 You must fill some informations on `_config.yml` to customize your site.
