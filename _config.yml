@@ -1,7 +1,7 @@
 # main text of home
 
 name: 
-bio: Einen Gemeinschaftsprojekt von <br> <div style="padding-top:30px"> <img style="height:100px; padding:20px;" src='assets/images/haxko.jpg'></img><img style="height:100px; padding:20px;" src='assets/images/osna.png'></img><img style="height:100px; padding:20px;" src='assets/images/wwl.png'></img>  </div>
+bio: Einen Gemeinschaftsprojekt von <br> <div style="padding-top:30px"> <a href="https://haxko.space/"> <img style="height:100px; padding:20px;" src='assets/images/haxko.jpg'></img></a> <a href="https://chaostreff-osnabrueck.de/"><img style="height:100px; padding:20px;" src='assets/images/osna.png'></img></a> <a href="https://westwoodlabs.de/"><img style="height:100px; padding:20px;" src='assets/images/wwl.png'></img> </a>  </div>
 # twitter summary info
 #description: A blog about technology and stuff related
 
